@@ -9,6 +9,7 @@ TapFlow is a Telegram-native CRM built for service professionals who want to sca
 ## 💡 The Problem We Solve
 
 Most service businesses manage client bookings manually across scattered tools:
+
 • Telegram chats  
 • WhatsApp messages  
 • Paper notebooks  
