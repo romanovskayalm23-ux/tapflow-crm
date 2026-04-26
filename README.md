@@ -1,109 +1,141 @@
 # 🚀 TapFlow CRM
 
-TapFlow CRM — это простая CRM-система для малого бизнеса, работающая прямо в Telegram.
+**Close more bookings, eliminate no-shows, and grow your service business — all from Telegram.**
 
-## 💡 Идея
-
-Большинство мастеров и малого бизнеса ведут записи клиентов вручную:
-— в Telegram  
-— в WhatsApp  
-— в заметках  
-
-Это приводит к:
-- пропущенным клиентам  
-- хаосу в переписках  
-- потере денег  
-
-TapFlow решает эту проблему.
+TapFlow is a Telegram-native CRM built for service professionals who want to scale without complexity.
 
 ---
 
-## 🔥 Что делает продукт
+## 💡 The Problem We Solve
 
-👉 Telegram-бот:
-- автоматически записывает клиентов  
-- показывает доступное время  
-- отправляет напоминания  
+Most service businesses manage client bookings manually across scattered tools:
+• Telegram chats  
+• WhatsApp messages  
+• Paper notebooks  
 
-👉 Mini App (в разработке):
-- управление услугами  
-- просмотр записей  
-- редактирование расписания  
+This leads to:
+• **Lost revenue** from missed bookings  
+• **Wasted time** in endless back-and-forth  
+• **No-shows** without reminders  
 
----
-
-## ⚡ Основная ценность
-
-- меньше переписок  
-- меньше "не пришёл"  
-- больше записей  
-- всё работает сразу без сложной настройки  
+**TapFlow eliminates the chaos.**
 
 ---
 
-## 🧠 Особенность
+## 🔥 How It Works
 
-Система может автоматически настроиться под бизнес:
+**Telegram Mini App** — your complete booking system:
+• Manage services and pricing in one tap  
+• View your schedule at a glance  
+• Edit bookings instantly  
+• Track attendance with built-in analytics  
 
-Пользователь просто пишет:
-> "маникюр на дому"
-
-И система предлагает:
-- услуги  
-- длительность  
-- базовое расписание  
-
----
-
-## 🧩 Возможности (MVP)
-
-- запись клиентов через Telegram  
-- управление услугами  
-- рабочие часы  
-- напоминания  
-- просмотр записей  
+**AI-Powered Setup** — ready in minutes, not hours:
+• Describe your business once  
+• Get smart suggestions for services, duration, and schedule  
+• Start accepting bookings immediately  
 
 ---
 
-## 🛠 Технологии
+## ⚡ Why Service Professionals Choose TapFlow
 
-- Python (aiogram)
-- PostgreSQL / SQLite
-- Telegram Bot API
-- Telegram Mini Apps (WebApp)
+**Instant Response, Zero Effort**  
+Clients message you → TapFlow replies automatically → Booking confirmed
 
----
+**More Bookings, Less Work**  
+Automated reminders reduce no-shows by up to 70%
 
-## 🎯 Целевая аудитория
+**Works Where You Work**  
+No app downloads. No training. Just Telegram.
 
-- мастера маникюра  
-- барбершопы  
-- салоны красоты  
-- любые услуги по записи  
+**Setup in Minutes, Not Days**  
+AI configures your CRM based on your business type — no technical skills required
 
 ---
 
-## 🚀 Статус
+## 🧠 Smart Business Setup
 
-MVP в разработке
+TapFlow learns your business and configures itself:
+
+**You type:**  
+> "Home nail salon"
+
+**TapFlow suggests:**  
+• Service menu (manicure, pedicure, gel polish)  
+• Typical duration (60-90 min)  
+• Recommended schedule  
+
+**You're ready to accept bookings in under 5 minutes.**
 
 ---
 
-## 💰 Модель
+## 🧩 Core Features
 
-- настройка бота под бизнес  
-- ежемесячная подписка за обслуживание  
+✅ **Automated Client Booking** — clients book directly through Telegram  
+✅ **Service Management** — add, edit, or remove services instantly  
+✅ **Smart Reminders** — reduce no-shows with automatic notifications  
+✅ **Schedule Overview** — see your day, week, or month at a glance  
+✅ **Attendance Analytics** — track client behavior and optimize your schedule  
 
 ---
 
-## 📌 Видение
+## 🎯 Built For
 
-TapFlow — это не просто бот.
+• Beauty professionals (nails, hair, makeup)  
+• Barbershops and salons  
+• Personal trainers and coaches  
+• Tutors and consultants  
+• Any service business that takes appointments  
 
-Это инструмент, который превращает Telegram в рабочую систему для бизнеса.
+---
+
+## 🚀 Current Status
+
+**MVP in active development**  
+Early access coming soon.
+
+---
+
+## 💰 Business Model
+
+**Simple, transparent pricing:**  
+• One-time setup fee for business configuration  
+• Monthly subscription for ongoing support and features  
+
+No hidden costs. Cancel anytime.
+
+---
+
+## 📌 Our Vision
+
+TapFlow isn't just another booking bot.
+
+**It's the operating system for service businesses on Telegram.**
+
+We're building the simplest way to run a professional service business — without leaving the app your clients already use every day.
 
 ---
 
 ## 🧪 Demo
 
-Coming soon...
+Coming soon — join the waitlist to be first in line.
+
+---
+
+## 🛠 Technology
+
+Built with modern, reliable infrastructure:
+• **Python** (aiogram) — fast, scalable bot framework  
+• **PostgreSQL** — enterprise-grade data reliability  
+• **Telegram Bot API + Mini Apps** — native Telegram experience  
+
+---
+
+## 📬 Get Early Access
+
+Interested in being an early adopter?  
+Reach out: [Your contact info]
+
+---
+
+**TapFlow CRM** — Grow your service business without the complexity.
