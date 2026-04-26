@@ -134,7 +134,7 @@ Built with modern, reliable infrastructure:
 ## 📬 Get Early Access
 
 Interested in being an early adopter?  
-Reach out: [Your contact info]
+Reach out: [tsyteg@gmail.com]
 
 ---
 
