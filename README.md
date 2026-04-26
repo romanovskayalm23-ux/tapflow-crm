@@ -27,12 +27,14 @@ This leads to:
 ## 🔥 How It Works
 
 **Telegram Mini App** — your complete booking system:
+
 • Manage services and pricing in one tap  
 • View your schedule at a glance  
 • Edit bookings instantly  
 • Track attendance with built-in analytics  
 
 **AI-Powered Setup** — ready in minutes, not hours:
+
 • Describe your business once  
 • Get smart suggestions for services, duration, and schedule  
 • Start accepting bookings immediately  
@@ -42,6 +44,7 @@ This leads to:
 ## ⚡ Why Service Professionals Choose TapFlow
 
 **Instant Response, Zero Effort**  
+
 Clients message you → TapFlow replies automatically → Booking confirmed
 
 **More Bookings, Less Work**  
@@ -101,6 +104,7 @@ Early access coming soon.
 ## 💰 Business Model
 
 **Simple, transparent pricing:**  
+
 • One-time setup fee for business configuration  
 • Monthly subscription for ongoing support and features  
 
@@ -121,15 +125,6 @@ We're building the simplest way to run a professional service business — witho
 ## 🧪 Demo
 
 Coming soon — join the waitlist to be first in line.
-
----
-
-## 🛠 Technology
-
-Built with modern, reliable infrastructure:
-• **Python** (aiogram) — fast, scalable bot framework  
-• **PostgreSQL** — enterprise-grade data reliability  
-• **Telegram Bot API + Mini Apps** — native Telegram experience  
 
 ---
 
