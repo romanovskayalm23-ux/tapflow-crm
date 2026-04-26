@@ -15,6 +15,7 @@ Most service businesses manage client bookings manually across scattered tools:
 • Paper notebooks  
 
 This leads to:
+
 • **Lost revenue** from missed bookings  
 • **Wasted time** in endless back-and-forth  
 • **No-shows** without reminders  
